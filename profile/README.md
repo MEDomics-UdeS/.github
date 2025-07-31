@@ -1,5 +1,3 @@
-## MEDomics UdeS
+## MEDomicsLab
 
-Consultez notre site web : <https://medomics-udes.org/fr>
-
-See our website : <https://medomics-udes.org/en>
+See our website : [medomicslab.com](https://medomicslab.com/)
